@@ -1,4 +1,13 @@
-### Hi there 👋
+### 👋 Hi, I'm Meriam
+
+🎓 Computer Engineering student at the University of Toronto\
+💻 Passionate about tech, innovation, and creative problem-solving\
+🔍 Previous internships at Google, BlueCat Networks, Bluewrist and Microdea\
+🚀 Ready to collaborate and code for a brighter future
+
+🌐 Connect with me:\
+📧 Email: [meriam_fourati@yahoo.com](mailto:meriam_fourati@yahoo.com)\
+📖 LinkedIn: [/mfourati](https://www.linkedin.com/in/mfourati/)
 
 <!--
 **meriam04/meriam04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
